@@ -77,6 +77,23 @@ The application does not require an external database.
 
 User information and examination questions are stored in memory while the application is running.
 
+## 📸 Screenshots
+
+### 1. Login
+![Login Screen](screenshots/01_Login.png)
+
+### 2. Profile Update
+![Profile Update](screenshots/02_Profile-update.png)
+
+### 3. Subject Selection
+![Subject Selection](screenshots/03_Subject-selection.png)
+
+### 4. Examination
+![Examination Screen](screenshots/04_Examination.png)
+
+### 5. Result
+![Result Screen](screenshots/05_Result.png)
+
 ## 🎓 Internship
 
 OIBSIP - Java Development Internship
