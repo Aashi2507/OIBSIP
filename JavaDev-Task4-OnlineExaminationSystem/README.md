@@ -34,18 +34,26 @@ A desktop-based Online Examination System developed using Java Swing. The applic
 
 ## 📁 Project Structure
 
-- src
-  - Main.java
-  - ExamApplication.java
-  - User.java
-  - UserStore.java
-  - Question.java
-  - QuestionBank.java
-- README.md
-- .gitignore
+```text
+JavaDev-Task4-OnlineExaminationSystem/
+├── src/
+│   ├── Main.java
+│   ├── ExamApplication.java
+│   ├── User.java
+│   ├── UserStore.java
+│   ├── Question.java
+│   └── QuestionBank.java
+├── screenshots/
+│   ├── 01_Login.png
+│   ├── 02_Profile-update.png
+│   ├── 03_Subject-selection.png
+│   ├── 04_Examination.png
+│   └── 05_Result.png
+├── README.md
+└── .gitignore
+```
 
 ## ▶️ How to Run
-
 ### IntelliJ IDEA
 
 1. Open the project in IntelliJ IDEA.
